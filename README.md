@@ -28,12 +28,8 @@ High accuracy in detecting and segmenting road surfaces
 
 Visual comparisons of predicted and actual segmentation masks
 
-road-segmentation-with-unet/
-│
-├── road-segmentation-with-unet.ipynb   # Main implementation notebook
-├── data/                               # Dataset (images and masks)
-├── models/                             # Saved model weights
-└── README.md                           # Project documentation
+<img width="642" height="177" alt="Screenshot 2025-10-20 at 10 20 28 AM" src="https://github.com/user-attachments/assets/92ced46d-c45c-465a-96d0-aeac665f6ade" />
+
 
 ⚙️ How to Run
 
