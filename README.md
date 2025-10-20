@@ -28,7 +28,6 @@ High accuracy in detecting and segmenting road surfaces
 
 Visual comparisons of predicted and actual segmentation masks
 
-🗂️ Structure
 road-segmentation-with-unet/
 │
 ├── road-segmentation-with-unet.ipynb   # Main implementation notebook
